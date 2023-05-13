@@ -4,4 +4,4 @@ We are investigating if we could modulate the speech comprehension performancy u
 
 *Pilot data*
 
-<img src="images/av_tagging.jpg" alt="pilot result" width="50%">
+<img src="images/av_tagging.jpg" alt="pilot result" width="70%">
